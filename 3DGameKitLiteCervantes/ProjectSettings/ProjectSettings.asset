@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 00000000000000000000000000000000
+  productGUID: d75717723cf277e40963a753e1011606
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -699,7 +699,7 @@ PlayerSettings:
   cloudProjectId: 25116588-f848-41ff-bcad-570cdcc1b7b6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer3DClient
+  projectName: 3DGameKitLiteCervantes
   organizationId: adelinee
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
